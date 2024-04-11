@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "title": "Наука про освіту: Що повинен знати лідер освітнього стартапа",
+      "startDate": "20 янв. 2020 г. 12:30 EET",
+      "university": "PCSC",
+      "pic": "/courses/course-1.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Основи управління командами та проєктами в IT. Підготовчий",
+      "startDate": "24 дек. 2020 г. 18:00 EET",
+      "university": "LITS",
+      "pic": "/courses/course-2.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Вебпрограмування з Python та JavaScript CS50",
+      "startDate": "Курс доступний постійно",
+      "university": "Prometheus",
+      "pic": "/courses/course-3.jpg"
+    },
+    {
+      "id": "4",
+      "title": "ІТ-продукт з нуля: з чого розпочати та як розвивати?",
+      "startDate": "Курс начался: 17 янв. 2022 г. 02:00 EET",
+      "university": "Prometheus",
+      "pic": "/courses/course-4.jpeg"
+    },
+    {
+      "id": "5",
+      "title": "Основи Web UI розробки 2023",
+      "startDate": "Курс доступний постійно",
+      "university": "Lviv IT School",
+      "pic": "/courses/course-5.png"
+    },
+    {
+      "id": "6",
+      "title": "Початок роботи з ChatGPT",
+      "startDate": "6 июня 2023 г. 03:00 EEST",
+      "university": "Prometheus",
+      "pic": "/courses/course-6.jpeg"
+    }
+  ]
+}
